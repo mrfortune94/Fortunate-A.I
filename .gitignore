@@ -1,0 +1,29 @@
+# Android build files
+*.apk
+*.ap_
+*.dex
+
+# Java class files
+*.class
+
+# Generated folders
+bin/
+gen/
+build/
+
+# Gradle files
+.gradle/
+
+# Local config
+local.properties
+
+# IDE config
+*.iml
+.idea/
+
+# Android Studio
+captures/
+.externalNativeBuild/
+
+# Misc
+.DS_Store
